@@ -1,0 +1,29 @@
+ 
+.welcome-box {
+    padding : 1px ;
+    background-color: #F6EEDC;
+    font-size : 14px ;
+    color: #5a5750;
+}
+
+.search-icon{
+    width : 24px ;
+    height: 24px ;
+}
+
+.cart-icon{
+    width : 34px ;
+    height: 34px;
+}
+
+.action-container{
+    display: flex;
+    flex-direction : row  ;
+    justify-content: space-around;
+    padding : 10px ;
+    font-size: 20px;
+}
+
+.action-container p{
+    color : #FFC048 ;
+}
