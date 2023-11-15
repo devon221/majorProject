@@ -10,12 +10,13 @@ const Navbar = () => {
         <p>Welcome to our store</p>
       </div>
       <div className='action-container'>
-        <img className="search-icon" src={searchImage} alt='Cart Icon' />
-        <p>GoLaptops    </p>
-        <img className="cart-icon" src={cartImage} alt='Cart Icon' />
+      
+        <p>GoLaptops</p>
+       
       </div>
     </div>
   );
 };
 
 export default Navbar;
+ 
